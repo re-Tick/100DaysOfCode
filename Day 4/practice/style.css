@@ -1,0 +1,15 @@
+.container{
+    width: 35%;
+    margin: 50px auto;
+    
+}
+li{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+    box-sizing: border-box;
+    margin: 7px;
+}
+ul{
+    padding: 0;
+}
